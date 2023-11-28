@@ -21,7 +21,7 @@ This toolkit serves as a starting point within a broader effort to pilot, refine
 ## What You'll Find in this Tookit
 [USDS Equity Delivery tools - current version](.com)
 
-[What do we mean by equity?](.com)
+[What do we mean by equity?](defining_equity.md)
 
 [Situating equity within our current government context](.com)
 
