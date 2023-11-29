@@ -19,7 +19,7 @@ This toolkit serves as a starting point within a broader effort to pilot, refine
 3.	USDS New Project Teams
 
 ## What You'll Find in this Tookit
-[Preparing your team to deliver equity](.com}
+[Preparing your team to deliver equity](prepare_equity_delivery.md)
 
 [USDS Equity Delivery tools - current version](.com)
 
