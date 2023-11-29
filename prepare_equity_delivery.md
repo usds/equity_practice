@@ -24,57 +24,6 @@ projects.
 
 -   Resources worthy of adaption for current and future teams
 
-## Resource Identification, Analysis, and Assessment Process 
-
-The collection of resources shared in this section is the result of an
-environmental scan conducted by members of the DEIA-C where over 50
-resources—toolkits, tools and frameworks, were collected, analyzed and
-assessed for potential inclusion and/or customization.
-
--   **Identification.** Input came from 1-1 and small-group
-    conversations as well as submissions from 15 USDS staff, snowball
-    searches online and using the White House librarians who helped
-    identify peer-reviewed resources by limited searches using keywords
-    such as “equity” and “toolkit” on PubMed, ERIC, PsychInfo and Web of
-    Science databases. Each resource was documented in a matrix table
-    noting the resource title, its type, publication year, authorship,
-    funder, referral source, format, primary user type, topic (if
-    relevant) and use case.
-
-<!-- -->
-
--   **Analysis.** Once a resource was identified, a “SLOT” analysis was
-    conducted with almost a dozen different USDS staff participating.
-    This involved a single staff member reviewing each resource and
-    identifying the resource’s strengths, limitations, opportunities and
-    threats to usage.
-
--   **Assessment.** Using the SLOT analysis as a primary guide, at least
-    2 USDS staff worked together to assess each resource, scoring it as
-    a 0 or 1 across three different factors:
-
-    -   Clear Execution: The degree to which the resource was focused
-        and contextualized around equity within service delivery
-        contexts,
-
-    -   Readiness: The degree to which the resource can be used as-is or
-        would benefit from greater refinement and/or customization to
-        USDS’s context.
-
-    -   Value to Delivery: The degree to which the resource speaks to
-        centering equity in service *delivery* compared to more
-        organizational or operational value.
-
-**The top scoring resources are included in this section. This should
-not be considered a fully comprehensive inventory of every tool at
-project teams’ disposal. Additional resources exist that are not
-captured in this phase of the environmental scan. This effort is
-intended to be iterative and a starting point for evolving our
-approaches.**
-
-*You can find other recommended resources that are valuable, but that
-require customization for USDS project delivery in the
-[**Appendix**](#_Appendix)*.
 
 ## Getting started
 
