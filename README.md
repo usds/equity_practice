@@ -19,6 +19,8 @@ This toolkit serves as a starting point within a broader effort to pilot, refine
 3.	USDS New Project Teams
 
 ## What You'll Find in this Tookit
+[Preparing your team to deliver equity](.com}
+
 [USDS Equity Delivery tools - current version](.com)
 
 [What do we mean by equity?](defining_equity.md)
