@@ -28,5 +28,5 @@ This toolkit serves as a starting point within a broader effort to pilot, refine
 [Additional equity resources and tools](.com)
 
 ## Need Some Help? Reach Out to the Equity Delivery Team!
-Book some time for a more private conversation, schedule a consultation with us, or just ask a question using this [Slack form](.com). This gets sent as a DM to the team but not to our working channel.
+Book some time for a more private conversation, schedule a consultation with us, or just ask a question using this [Polly](ttps://web.polly.ai/xakn93). This gets sent as a DM to the team but not to our working channel.
 
