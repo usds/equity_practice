@@ -1,8 +1,6 @@
 # Shared Language Related to Equity 
 
-
-### Applying an Equity Lens to Design and Delivery
-<img src="media/image9.png" style="width:6.44028in;height:3.53264in" />
+<img src="https://private-user-images.githubusercontent.com/74199261/286802552-9d2af9a3-6242-4919-b6ef-b13baae9464e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEzMTM0MDIsIm5iZiI6MTcwMTMxMzEwMiwicGF0aCI6Ii83NDE5OTI2MS8yODY4MDI1NTItOWQyYWY5YTMtNjI0Mi00OTE5LWI2ZWYtYjEzYmFhZTk0NjRlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTMwVDAyNTgyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmNTY4OTZlMWM3MmNhNTdiNTBmYWY5ZDhjN2ExYThhZDQ2ZDQwYzQwYjE2MmIwZTU3NDY2ZGZiYjJkZTc5NWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.muMxIKKfWwRaKyPyf-ncZh-pczZZH_f7mMUQRVwlkMU" style="width:6.44028in;height:3.53264in" />
 
 ## Glossary of Terms Related to Equity 
 When thinking about how we achieve equity in our work it is import to
@@ -86,6 +84,3 @@ who participates. A safe space for one person might be a brave space for
 another, and a safe space for someone when discussing a particular topic
 might not be a safe space for that person when they discuss a different
 topic that feels more risk-laden.
-
-**  
-**
