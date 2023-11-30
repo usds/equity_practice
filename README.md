@@ -27,6 +27,8 @@ This toolkit serves as a starting point within a broader effort to pilot, refine
 
 [Situating equity within our current government context](situating_equity.md)
 
+[Shared Language at USDS for Equity Conversations](https://github.com/usds/equity_practice/blob/043bfe59d755633a4d7d4893941208e12d609f15/shared_language_terms.md)
+
 [Additional equity resources and tools](.com)
 
 ## Need Some Help? Reach Out to the Equity Delivery Team!
