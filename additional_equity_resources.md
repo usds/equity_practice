@@ -1,103 +1,60 @@
 # Resources worthy of adaptation for current and future teams**
 
+## Resource Identification, Analysis, and Assessment Process 
+
+The collection of resources shared in this section is the result of an
+environmental scan conducted by members of the DEIA-C where over 50
+resources—toolkits, tools and frameworks, were collected, analyzed and
+assessed for potential inclusion and/or customization.
+
+-   **Identification.** Input came from 1-1 and small-group
+    conversations as well as submissions from 15 USDS staff, snowball
+    searches online and using the White House librarians who helped
+    identify peer-reviewed resources by limited searches using keywords
+    such as “equity” and “toolkit” on PubMed, ERIC, PsychInfo and Web of
+    Science databases. Each resource was documented in a matrix table
+    noting the resource title, its type, publication year, authorship,
+    funder, referral source, format, primary user type, topic (if
+    relevant) and use case.
+
+<!-- -->
+
+-   **Analysis.** Once a resource was identified, a “SLOT” analysis was
+    conducted with almost a dozen different USDS staff participating.
+    This involved a single staff member reviewing each resource and
+    identifying the resource’s strengths, limitations, opportunities and
+    threats to usage.
+
+-   **Assessment.** Using the SLOT analysis as a primary guide, at least
+    2 USDS staff worked together to assess each resource, scoring it as
+    a 0 or 1 across three different factors:
+
+    -   Clear Execution: The degree to which the resource was focused
+        and contextualized around equity within service delivery
+        contexts,
+
+    -   Readiness: The degree to which the resource can be used as-is or
+        would benefit from greater refinement and/or customization to
+        USDS’s context.
+
+    -   Value to Delivery: The degree to which the resource speaks to
+        centering equity in service *delivery* compared to more
+        organizational or operational value.
+
+**The top scoring resources are included in this section. This should
+not be considered a fully comprehensive inventory of every tool at
+project teams’ disposal. Additional resources exist that are not
+captured in this phase of the environmental scan. This effort is
+intended to be iterative and a starting point for evolving our
+approaches.**
+
 During the course of the environmental scan, the Council came across 11
 resources that would provide clear value to our objectives for
 delivering equity, but were not ready for immediate use. 
 
 You can contribute to the ongoing environmental scan or peruse what's been collected by USDSers so far [here](.com).
 
-## Section 1 Illustrative Examples and Shared Language for Equity
-
-<img src="media/image9.png" style="width:6.44028in;height:3.53264in" />
-
-### Shared Language Related to Equity 
-
-When thinking about how we achieve equity in our work it is import to
-define and acknowledge language that is related to equity. Please find a
-starter list of terms that have been identified by the USDS DEIA Council
-and know that this list will grow over time (and that you can add to
-it!). [More terms can be found at
-https://www.feminuity.org.](https://teams.omb.gov/team/USDS/Shared%20Documents/DEIA%20equity%20toolkit/Toolkit%20Drafts/More%20terms%20can%20be%20found%20at%20https:/www.feminuity.org.)
-
-Remember that language is critically important, highly imperfect, and
-ever-evolving!
-
-**Marginalized:** More commonly used in academia, social
-work/justice/movements. Refers to those deprived of institutional power
-to create change or those who are most likely to experience various
-forms of exclusion. Occurs when someone’s identity is undervalued or
-discriminated against. Does not necessarily mean underrepresentation.
-
-**Underserved:** More commonly used in government (at least more
-recently), to recognize the role racism, discrimination and other forms
-of oppression play in denying certain individuals and communities full
-access to services, opportunities, and participation in systems.
-Executive Order 13895 lists the following groups as underserved: Black,
-Latino, and Indigenous and Native American persons, Asian Americans and
-Pacific Islanders and other persons of color; members of religious
-minorities; lesbian, gay, bisexual, transgender, and queer (LGBTQ+)
-persons; persons with disabilities; persons who live in rural areas; and
-persons otherwise adversely affected by persistent poverty or
-inequality. ”
-
-**Underrepresented:** More commonly used to speak about a low number of
-a specific identity relative to general population.
-
-**Lived Experience:** Personal knowledge about the world gained through
-direct, first-hand involvement in everyday events rather than through
-representations constructed by other people.
-
-**Diversity**: The achievement of a workforce composition that all
-stakeholders, especially individuals and communities who are
-traditionally underserved and marginalized, trust to represent the
-public we serve.
-
-**Inclusion:** The achievement of an environment that all stakeholders,
-especially individuals and communities who are traditionally underserved
-and marginalized, trust to be safe, supportive, welcoming, and
-respectful.
-
-**Accessibility:** The design, development, procurement and maintenance
-of inclusive technology, information, programs, services, and facilities
-so that all stakeholders and those we serve, especially individuals and
-communities who are traditionally underserved and marginalized -
-including those who are disabled - can fully and independently use them.
-
-**Intersectionality:** Acknowledges that people have overlapping
-identities and lived experiences complicating their relationship to
-prejudice and oppression.
-
-**Psychological Safety:** The individual, team, or organizational belief
-that an environment allows for risk taking, vulnerability, and failure.
-One of the ways that we measure inclusion.
-
-**Belonging:** The extent to which people feel part of a larger whole in
-a group setting. One of the ways that we measure inclusion.
-
-**Mattering:** Consists of engaging employees in workplace decisions,
-building a culture of gratitude and recognition, and connecting
-individual work with organizational mission. One of the ways we measure
-inclusion.
-
-**Safe Spaces:** a supportive, non-threatening environment that enables
-a participant to feel there is no risk to expressing themselves and
-sharing their thoughts/experiences
-
-**Brave Spaces:** a supportive environment that enables a participant to
-feel comfortable taking a certain amount of risk in order to express
-themselves or share their thoughts/experiences
-
-Regardless of the policies or norms that a space espouses, whether a
-space is “safe” or “brave” or neither is in the eyes of each individual
-who participates. A safe space for one person might be a brave space for
-another, and a safe space for someone when discussing a particular topic
-might not be a safe space for that person when they discuss a different
-topic that feels more risk-laden.
-
-**  
-**
-
-## Section 2 Resources worthy of adaptation for teams
+## Resources worthy of adaptation for teams
 
 A number of resources that would provide clear value to our objectives
 for delivering equity, but that were not ready for immediate use by
