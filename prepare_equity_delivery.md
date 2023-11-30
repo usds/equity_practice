@@ -142,19 +142,19 @@ possible equitably.
 1.  
 
 [**Positionality radar
-(worksheet)**](https://teams.omb.gov/team/USDS/Shared%20Documents/DEIA%20equity%20toolkit/Section%204%20and%205%20-%20Frameworks%20and%20Resources/Positionality%20Radar.pdf?d=wc7cd2811beec429a8f543366e6b69f77)A
-worksheet from Learning to Recognize Exclusion that provides activity
-and framework guidelines for positionality activity.
+(worksheet)**](https://teams.omb.gov/team/USDS/Shared%20Documents/DEIA%20equity%20toolkit/Section%204%20and%205%20-%20Frameworks%20and%20Resources/Positionality%20Radar.pdf?d=wc7cd2811beec429a8f543366e6b69f77)
+A worksheet from Learning to Recognize Exclusion that provides activity
+and framework guidelines for positionality activity._This has been adapted for use at USDS and is in the Equity Tools section of this toolkit._
 
 | **Strengths**                                                                                                                                                                                                    | **Opportunities**                                                                                                                                                                                                                                                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| This Positionality exercise that has been iterated on and has been used successfully within at least one USDS project (CMS). It has strong adoption in industry making it a strong pilot for most project teams. | This exercise is ready to go for projects that need a refresh as well as those kicking off. It can be used to define relationships between teams, agency stakeholders, and proto-segments that are grounded in an understanding of power. Additional use could be prescribed alongside a more aggressive framework to ground, center, prioritize segments. |
+| The Positionality exercise has strong adoption in industry making it a noteworthy addition for most project teams. | This exercise is ready to go for projects that need a refresh as well as those kicking off. It can be used to define relationships between teams, agency stakeholders, and proto-segments that are grounded in an understanding of power. Additional use could be prescribed alongside a more aggressive framework to ground, center, prioritize segments. |
 
 2.  
 
 [**The Positionality
-Wheel**](https://teams.omb.gov/team/USDS/_layouts/15/guestaccess.aspx?guestaccesstoken=rF1rG1U5tHltedtPcdDqdIGESy134EvUSGsHjO8rqrw%3D&docid=2_0c11f27033c63400d93229ae690bd4517&rev=1)A
-tool and exercise for helping to determine positionality with respect to
+Wheel**](https://teams.omb.gov/team/USDS/_layouts/15/guestaccess.aspx?guestaccesstoken=rF1rG1U5tHltedtPcdDqdIGESy134EvUSGsHjO8rqrw%3D&docid=2_0c11f27033c63400d93229ae690bd4517&rev=1)
+A tool and exercise for helping to determine positionality with respect to
 project work.
 
 | **Strengths**                                                                                                                 | **Opportunities**                                                                                                                                            |
