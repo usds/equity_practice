@@ -1,4 +1,4 @@
-# Resources worthy of adaptation for current and future teams**
+# Resources worthy of adaptation for current and future teams
 
 ## Resource Identification, Analysis, and Assessment Process 
 
