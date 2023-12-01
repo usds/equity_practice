@@ -1,5 +1,5 @@
 # Equity Toolkit for Project Delivery
-A guided set of tools to encourage the adoption of practices for equitable teams and better equity delivery with our agency partners.
+Are you interested in advancing your team's equity-centered practices? This guided set of tools was created to encourage you and your team in the adoption of practices that improve equity delivery with our agency partners.
 
 ## Overview
 
