@@ -1,17 +1,15 @@
 # Flagship Equity Tools Generated for Use at USDS
 
-The Equity Delivery team is excited to provide our project teams with an evolving suite of tools and resources across the project lifecycle. In the coming months, we will be working with leadership and across USDS to identify ways to embed equity in all that we do from the moment a project becomes reality to the handoff.
-Equity at USDS means uplifting the value-creating meaningfulness of our work by centering the humanity of the people we serve.
-We don’t simply ask ***"What is the work?"*** Or ***"How can I evaluate the work?"***
+The Equity Delivery team is excited to provide our project teams with an evolving suite of tools and resources to support equity delivery across the project lifecycle. In the coming months, we will be working with leadership and across USDS to identify ways to embed equity in all that we do from the moment a project becomes reality to the handoff.
+Equity at USDS means uplifting the value and meaningfulness of our work by centering the humanity of the people we serve.
+We don’t simply ask ***"What work do I need to do?"*** Or ***"How can I evaluate the work?"*** Equity asks us to consider ***"What is the underlying thought process, vision, and sense of care driving our work? How are we caring for people against the backdrop of the larger system in which our work takes place?"***
 
-Equity asks us to consider ***"What is the care and feeding of our work? Who does this care and feeding in the overall system where the work takes place?"***
-
-In asking questions like these, we develop a deep respect for the people who do work, who touch the work being done, and a grounding in the possibility to positively transform people’s lived experiences.
+In asking questions like these, we develop a deep respect for the people in communities who work on these problems everyday, people we serve whose lives expand beyond the products and services we are building, and we realize our potential to completely transform people’s lived experiences.
 
 **This content will be updated as tools are added.*
 
 ## Positionality
-This 60-minute team exercise helps you and your team achieve a richer sense of self, of team, and of the people involved in your project.
+This 60-minute team exercise helps you and your team achieve a richer sense of self, of team, and of the people involved in your project. It prompts teams to reflect on their lived experiences and highlights gaps and opportunities between the team’s experience and the communities being served.
 
 You can use this tool to:
 - Reflect on how aspects of our individual and collective identities inform our leadership
@@ -22,7 +20,7 @@ You can use this tool to:
 [Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1688682093846/26[…]6b12d80b730dabebe85a33b202fe1?sender=u251162188f56721a08512222) (in Mural)
 
 ## Reach/Burden Spectrum
-Use this tool to ensure the problem your team is solving is as high-impact as possible within the constraints that this problem space poses for your team.
+Use this tool to ensure the problem your team is solving is as high-impact as possible within the constraints that this problem space poses for your team. This tool challenges teams to consider different levers of change and do a risk-benefit analysis among them, focusing on the reach and burden they tend to carry for the American public.
 
 You can use this tool to:
 - Assess the expected reach and public burden that solutions to your team’s problem statement might carry relative to alternative framings of that problem
@@ -33,7 +31,7 @@ You can use this tool to:
 [Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699306039829/35[…]0d3cc2246ddee79f4246bb59cae3a?sender=u251162188f56721a08512222) (in Mural)
 
 ## Participation Spectrum
-Participation Spectrum is a planning and evaluative tool to help you and your team assess how stakeholders participated and the integrity of that participation. This tools is adapted from the IAP2 Spectrum of Public Participation, an internationally recognized framework government entities use to structure public participation engagements. It has been adapted for USDS and agency team use. When used with agency teams, this tool introduces foundational elements of equitable CX measurement and design so those teams can build a system for meaningful, continuous feedback and partnership with all individuals they serve across all touchpoints.
+Participation Spectrum is a planning and evaluative tool to help you and your team assess how stakeholders participated and the integrity of that participation. This tools is adapted from the IAP2 Spectrum of Public Participation, an internationally recognized framework government entities use to structure public participation engagements--and from Pamela Herd and Donald Moynihan's seminal research on administrative burden. When used with agency teams, this tool introduces foundational elements of equitable CX measurement and design so those teams can build a system for meaningful, continuous feedback and partnership with all individuals they serve.
 
 You can use this tool to:
 - Provide a lightweight rubric for planning how to build relationships and empower your stakeholders.
