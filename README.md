@@ -6,7 +6,7 @@ Are you interested in advancing your team's equity-centered practices? This guid
 Our Dec 4 soft launch comprises 3 elements:
 - [Three flagship tools](https://github.com/usds/equity_practice/blob/main/tools.md) created/adapted by the USDS Equity Team, directly for USDS project teams--to start using now.
 - This Github Repo, which provides project teams with a broader grounding on equity in the context of our work--including [key definitions](https://github.com/usds/equity_practice/blob/main/Ref_Equity%20Glossary%20of%20Terms.md), the [historical context](https://github.com/usds/equity_practice/blob/main/Ref_Situating%20Equity.md) of equity work within the federal government, and [extra resources](https://github.com/usds/equity_practice/blob/main/Ref_Additional%20Equity%20Resources.md).
-- The USDS Equity team is now making itself available for 30-min consultations. Schedule one here. <<INSERT LINK>>
+- The USDS Equity team is now making itself available for 30-min consultations. Schedule one [here](https://web.polly.ai/xakn93).
 
 ## Overview
 
