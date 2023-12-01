@@ -29,7 +29,7 @@ This V1 toolkit serves as a starting point within a broader effort led by the US
 4.	USDS Agency Partners
 
 ## What is included in this toolkit? 
-Part 1: [Preparing your team to deliver equity](https://github.com/usds/equity_practice/blob/main/further-reading/preparing-to-deliver-equity.md)
+Part 1: [Preparing your team to deliver equity](https://github.com/usds/equity_practice/blob/main/further-reading/preparing-to-deliver-equity.md) (contains original tools that were aggregated and reviewed for the V0 toolkit in Spring 2023)
 
 Part 2: [USDS Equity Delivery flagship tools](https://github.com/usds/equity_practice/blob/main/flagship-tools.md)*
 
