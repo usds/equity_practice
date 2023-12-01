@@ -30,7 +30,7 @@ This toolkit serves as a starting point within a broader effort led by the USDS 
 
 [Situating equity within our current government context](situating_equity.md)
 
-[Shared Language at USDS for Equity Conversations](https://github.com/usds/equity_practice/blob/043bfe59d755633a4d7d4893941208e12d609f15/shared_language_terms.md)
+[Tool: Equity Glossary of Terms](https://github.com/usds/equity_practice/blob/e65ead70d190603e63d137dce99a1d3eed47d8c6/Tool_Equity%20Glossary%20of%20Terms.md)
 
 [Additional equity resources and tools](.com)
 
