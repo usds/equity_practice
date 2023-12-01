@@ -19,9 +19,9 @@ You can use this tool to:
 - Learn more about our team members as people (to enable further support and collaboration)
 
 [End-to-End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F062CQMCH88) (in Slack Canvas)     
-[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1688682093846/26b79b984266b12d80b730dabebe85a33b202fe1?sender=u13c8485b33f98e7ba1c50392) (in Mural)
+[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1688682093846/26[…]6b12d80b730dabebe85a33b202fe1?sender=u251162188f56721a08512222) (in Mural)
 
-## Reach/Burden Scale
+## Reach/Burden Spectrum
 Use this tool to ensure the problem your team is solving is as high-impact as possible within the constraints that this problem space poses for your team.
 
 You can use this tool to:
@@ -30,7 +30,7 @@ You can use this tool to:
 - Determine a North Star to ground future project delivery
 
 [End-to-End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F061PMRTG59) (in Slack Canvas)     
-[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699306039829/35f6eaadae00d3cc2246ddee79f4246bb59cae3a?sender=u13c8485b33f98e7ba1c50392) (in Mural)
+[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699306039829/35[…]0d3cc2246ddee79f4246bb59cae3a?sender=u251162188f56721a08512222) (in Mural)
 
 ## Participation Spectrum
 Participation Spectrum is a planning and evaluative tool to help you and your team assess how stakeholders participated and the integrity of that participation. This tools is adapted from the IAP2 Spectrum of Public Participation, an internationally recognized framework government entities use to structure public participation engagements. It has been adapted for USDS and agency team use. When used with agency teams, this tool introduces foundational elements of equitable CX measurement and design so those teams can build a system for meaningful, continuous feedback and partnership with all individuals they serve across all touchpoints.
@@ -44,7 +44,7 @@ You can use this tool to:
 - Think critically about the unintentional burden on stakeholders' participation in your project and how to relieve this burden in the future.
 
 [End-to- End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F061PMZCMMY) (in Slack Canvas)     
-[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699304349451/546a113c45f6fef29a54c8965cb98defdae74d67?sender=u13c8485b33f98e7ba1c50392) (in Mural)
+[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699304349451/54[…]6fef29a54c8965cb98defdae74d67?sender=u251162188f56721a08512222) (in Mural)
 
 
 # Wanna contribute to this evolving work? 
