@@ -1,4 +1,4 @@
-# Equity Glossary of Terms
+# Glossary of Equity Terms
 
 Good communication is made possible when we have shared language to use. 
 
