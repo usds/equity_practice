@@ -1,5 +1,5 @@
 # Your Equity Toolkit for Project Delivery
-Are you interested in advancing your team's equity-centered practices? This guided set of tools was created to encourage you and your team in the adoption of practices that improve equity delivery with our agency partners.
+Are you interested in advancing your team's equity-centered practices? This guided set of tools was created to support you and your team in the adoption of practices that improve equity delivery with our agency partners.
 
 ## TL;DR -- Here for the Equity Toolkit Soft Launch? 
 
