@@ -53,7 +53,7 @@ The Urban Institute identified the below proposed areas of focus to continue pri
 To learn more about the Urban Institutes findings and recommendations please find the [Pathways to Equity at Scale Report](https://www.urban.org/research/publication/pathways-equity)
 
 ## Highlights from Equity-Focused Executive Orders 13895 and 14091
-### [<span id="_Toc134189715" class="anchor"></span>**Executive Order (EO) 13985: Advancing Racial Equity and Support for Underserved Communities Through the Federal Government**](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) [(Signed 01/20/2021)](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
+### [<span id="_Toc134189715" class="anchor"></span>**Executive Order (EO) 13985: Advancing Racial Equity and Support for Underserved Communities Through the Federal Government -- Signed 01/20/2021**](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
 
 EO 13985 was signed into law the first day of the Biden-Harris
 Administration. This order calls on Federal agencies to advance equity
