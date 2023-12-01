@@ -83,3 +83,6 @@ minorities; lesbian, gay, bisexual, transgender, and queer (LGBTQ+)
 persons; persons with disabilities; persons who live in rural areas; and
 persons otherwise adversely affected by persistent poverty or
 inequality. ”
+
+## Want to share feedback? Have a term to submit? Reach out!
+Your input is not only welcome, it's needed. You can book time for a more private conversation, schedule a consultation with us, submit a new idea or just ask a question using this Polly. This gets sent as a DM to USDS's Equity Delivery team team but not to our working channel.
