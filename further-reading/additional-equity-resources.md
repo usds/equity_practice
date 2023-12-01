@@ -54,7 +54,7 @@ During the course of the environmental scan, the Council came across 11
 resources that would provide clear value to our objectives for
 delivering equity, but were not ready for immediate use. 
 
-You can contribute to the ongoing environmental scan or peruse what's been collected by USDSers so far [here](.com).
+You can contribute to the ongoing environmental scan or peruse what's been collected by USDSers so far [here](https://github.com/usds/equity_practice/blob/main/further-reading/preparing-to-deliver-equity.md).
 
 ## Resources worthy of adaptation for teams
 
