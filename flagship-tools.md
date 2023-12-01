@@ -48,7 +48,7 @@ You can use this tool to:
 
 
 # Wanna contribute to this evolving work? 
-We need your helping hands! Drop us a DM and we’ll connect you.
+We need your helping hands! Drop us (Celeste Espinoza, Jeremy Zitomer, Alex Bornkessel, Natasha Jamal) a DM and we’ll connect you.
 
 **Environmental scan of tools and resources**
 You can contribute resources for adaptation and inclusion in the toolkit, by adding a resource or tool to our environmental scan document. We can also connect you with other USDSers who are contributing on specific topics. We’re flexible. Let’s build this together!
