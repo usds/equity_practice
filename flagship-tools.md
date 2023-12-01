@@ -11,7 +11,9 @@ In asking questions like these, we develop a deep respect for the people in comm
 
 
 ## Positionality
+<p align="center">
 <img width="582" alt="Screen Shot 2023-12-01 at 5 42 24 PM" src="https://github.com/usds/equity_practice/assets/76444566/86c466e3-5736-4b09-9429-dea9f1f16ddf">
+</p>
 
 This 60-minute team exercise helps you and your team achieve a richer sense of self, of team, and of the people involved in your project. It prompts teams to reflect on their lived experiences and highlights gaps and opportunities between the team’s experience and the communities being served.
 
