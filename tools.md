@@ -55,12 +55,3 @@ You can contribute resources for adaptation and inclusion in the toolkit, by add
 
 **Plain language, Accessibility, and Branding**
 Equity Delivery has a vision that our tools and resources will not just drive equity but be equitable by design. We need USDSers help to fill in the gaps with accessibility recommendations, plain language reviews, and other design tasks. You can find those needs in [Issues](https://github.com/usds/equity_practice/issues) if you have a cycle or two to give.
-
-
-
-
-
-
-
-
-Shift + Enter to add a new line
