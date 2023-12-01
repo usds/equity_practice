@@ -13,7 +13,7 @@ Did you know? The USDS was mentioned in [Section 7 of Executive Order 13985: Adv
 
 You can strengthen how we pursue equity our work and there are many ways to get started. To help you and USDS teams with equitable delivery, the USDS Diversity, Equity, Inclusion, and Accessibility Council (DEIA-C) developed a very initial version (v0) of an Equity Toolkit. The toolkit looks to equip USDS project leads, teams, and agency partners with a starter set of tools to develop products and services that deliver incrementally on equity. USDS Equity Delivery believes that no matter your role, equity is a part of the job and encourages ongoing efforts to improve upon centering equity in our work. 
 
-This toolkit serves as a starting point within a broader effort to pilot, refine and launch tools, resources, and frameworks that you can use internally and externally in your project work.
+This toolkit serves as a starting point within a broader effort led by the USDS Equity Delivery Team (Celeste Espinoza, Jeremy Zitomer and Alexandra Bornkessel) to pilot, refine and launch tools, resources, and frameworks that you can use internally and externally in your project work.
 
 ### Who should use this toolkit?
 1.	USDS Project Leads
@@ -34,6 +34,5 @@ This toolkit serves as a starting point within a broader effort to pilot, refine
 
 [Additional equity resources and tools](.com)
 
-## Want Some Help? Reach Out to the Equity Delivery Team!
-Support is available and new ideas are welcome. You can book time for a more private conversation, schedule a consultation with us, or just ask a question using this [Polly](https://web.polly.ai/xakn93). This gets sent as a DM to USDS's Equity Delivery team team but not to our working channel.
-
+## Want Some Help? Reach Out!
+Support is available and new ideas are welcome. You can book time with the USDS Equity Delivery Team for a more private conversation, schedule a consultation with us, or just ask a question using this [Polly](https://web.polly.ai/xakn93). This gets sent as a DM to USDS's Equity Delivery team team but not to our working channel.
