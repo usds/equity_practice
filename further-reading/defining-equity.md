@@ -1,4 +1,4 @@
-# Equity Definition
+# Defining Equity
 How do you define equity? This tool walks you through a definition of equity and strategies you and your team can condsider in your work to achieve more equitable outcomes. 
 
 *Tip: Consider this tool a way to jumpstart conversations and develop shared mental models for what equity is, how we consider it at USDS and what that means for your project and the people you serve*.     
