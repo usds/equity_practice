@@ -1,7 +1,7 @@
 # Your Equity Toolkit for Project Delivery
 Are you interested in advancing your team's equity-centered practices? This guided set of tools was created to encourage you and your team in the adoption of practices that improve equity delivery with our agency partners.
 
-## Here for the Equity Toolkit Soft Launch? 
+## TL;DR -- Here for the Equity Toolkit Soft Launch? 
 
 Our Dec 4 soft launch comprises 3 elements:
 - [Three flagship tools](https://github.com/usds/equity_practice/blob/main/tools.md) created/adapted by the USDS Equity Team, directly for USDS project teams--to start using now.
