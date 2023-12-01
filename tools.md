@@ -1,4 +1,4 @@
-# Equity Tools Adapted for Use at USDS
+# Flagship Equity Tools Generated for Use at USDS
 
 The Equity Delivery team is excited to provide our project teams with an evolving suite of tools and resources across the project lifecycle. In the coming months, we will be working with leadership and across USDS to identify ways to embed equity in all that we do from the moment a project becomes reality to the handoff.
 Equity at USDS means uplifting the value-creating meaningfulness of our work by centering the humanity of the people we serve.
