@@ -24,7 +24,7 @@ This toolkit serves as a starting point within a broader effort led by the USDS 
 ## What is included in this toolkit? 
 [Preparing your team to deliver equity](prepare_equity_delivery.md)
 
-[USDS Equity Delivery tools - current version](.com)
+[USDS Equity Delivery tools](https://github.com/usds/equity_practice/blob/c74513441f7037c610100b0752785d2fa0ad2cba/tools.md)
 
 [What do we mean by equity?](defining_equity.md)
 
