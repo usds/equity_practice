@@ -16,11 +16,11 @@ Our Dec 4 soft launch comprises 3 elements:
 
 The U.S. Digital Service (USDS) recognizes the critical importance for the civic technology workforce to deliver on equity in its work to transform the way government serves the American public. 
 
-Did you know? USDS was mentioned in [Section 7 of Executive Order 13985: Advancing Racial Equity and Support for Underserved Communities](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/), as one critical group playing a role to promote equitable delivery of government benefits and equitable opportunities.  
+Did you know? USDS was mentioned in [Section 7 of Executive Order 13985: Advancing Racial Equity and Support for Underserved Communities](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/), as critical to promoting equitable delivery of government benefits and equitable opportunities for the American public.  
 
-You can strengthen how we pursue equity our work and there are many ways to get started. To help you and USDS teams with equitable delivery, the USDS Diversity, Equity, Inclusion, and Accessibility Council (DEIA-C) developed a very initial version (v0) of an Equity Toolkit. The toolkit looks to equip USDS project leads, teams, and agency partners with a starter set of tools to develop products and services that deliver incrementally on equity. USDS Equity Delivery believes that no matter your role, equity is a part of the job and encourages ongoing efforts to improve upon centering equity in our work. 
+You can strengthen how we pursue equity in our work--there are many ways to get started. To help you and USDS teams advance the delivery of equity, the USDS Diversity, Equity, Inclusion, and Accessibility Council (DEIA-C) developed a very initial version (V0) of an Equity Toolkit in Spring 2023, which has since been updated to a brand new V1 with three new flagship tools, as of Fall 2023. The V1 toolkit looks to equip USDS project leads, teams, and agency partners with a starter set of tools to develop products and services that deliver incrementally on equity. The USDS Equity Delivery team believes that no matter your role, equity is a part of the job and encourages continuous efforts to improve upon centering equity in our work. 
 
-This toolkit serves as a starting point within a broader effort led by the USDS Equity Delivery Team (Celeste Espinoza, Jeremy Zitomer and Alexandra Bornkessel) to pilot, refine and launch tools, resources, and frameworks that you can use internally and externally in your project work.
+This V1 toolkit serves as a starting point within a broader effort led by the USDS Equity Delivery Team (Celeste Espinoza, Jeremy Zitomer and Alexandra Bornkessel) to pilot, refine and launch a comprehensive suite of tools, resources, and frameworks that you can use internally and externally in your project work.
 
 ### Who should use this toolkit?
 1.	USDS Project Leads
@@ -31,15 +31,15 @@ This toolkit serves as a starting point within a broader effort led by the USDS 
 ## What is included in this toolkit? 
 [Preparing your team to deliver equity](prepare_equity_delivery.md)
 
-[USDS Equity Delivery tools](https://github.com/usds/equity_practice/blob/c74513441f7037c610100b0752785d2fa0ad2cba/tools.md)
+[USDS Equity Delivery tools](https://github.com/usds/equity_practice/blob/main/tools.md)
 
 [What do we mean by equity?](defining_equity.md)
 
 [Situating equity within our current government context](situating_equity.md)
 
-[Tool: Equity Glossary of Terms](https://github.com/usds/equity_practice/blob/e65ead70d190603e63d137dce99a1d3eed47d8c6/Tool_Equity%20Glossary%20of%20Terms.md)
+[Tool: Equity Glossary of Terms](https://github.com/usds/equity_practice/blob/main/Ref_Equity%20Glossary%20of%20Terms.md)
 
-[Additional equity resources and tools](.com)
+[Additional equity resources and tools](https://github.com/usds/equity_practice/blob/main/Ref_Additional%20Equity%20Resources.md)
 
 ## Want Some Help? Reach Out!
 Support is available and new ideas are welcome. You can book time with the USDS Equity Delivery Team for a more private conversation, schedule a consultation with us, or just ask a question using this [Polly](https://web.polly.ai/xakn93). This gets sent as a DM to USDS's Equity Delivery team team but not to our working channel.
