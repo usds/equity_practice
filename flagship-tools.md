@@ -23,6 +23,7 @@ You can use this tool to:
 [End-to-End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F062CQMCH88) (in Slack Canvas)     
 [Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1688682093846/26[…]6b12d80b730dabebe85a33b202fe1?sender=u251162188f56721a08512222) (in Mural)
 
+
 ## Reach/Burden Spectrum
 <img width="409" alt="Screen Shot 2023-12-01 at 5 43 36 PM" src="https://github.com/usds/equity_practice/assets/76444566/a96959b0-16bf-4dd7-b795-483d3a606346">
 
@@ -35,6 +36,7 @@ You can use this tool to:
 
 [End-to-End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F061PMRTG59) (in Slack Canvas)     
 [Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699306039829/35[…]0d3cc2246ddee79f4246bb59cae3a?sender=u251162188f56721a08512222) (in Mural)
+
 
 ## Participation Spectrum
 <img width="459" alt="Screen Shot 2023-12-01 at 5 42 57 PM" src="https://github.com/usds/equity_practice/assets/76444566/f8fbc694-5a0a-4ff3-acdc-89807bfea0c2">
