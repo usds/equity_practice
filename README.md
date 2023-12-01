@@ -29,17 +29,17 @@ This V1 toolkit serves as a starting point within a broader effort led by the US
 4.	USDS Agency Partners
 
 ## What is included in this toolkit? 
-Part 1: [Preparing your team to deliver equity](prepare_equity_delivery.md)
+Part 1: [Preparing your team to deliver equity](https://github.com/usds/equity_practice/blob/main/further-reading/preparing-to-deliver-equity.md)
 
-Part 2: [USDS Equity Delivery tools](https://github.com/usds/equity_practice/blob/main/tools.md)*
+Part 2: [USDS Equity Delivery flagship tools](https://github.com/usds/equity_practice/blob/main/flagship-tools.md)*
 
-Part 3: [What do we mean by equity?](defining_equity.md)
+Part 3: [What do we mean by equity?](https://github.com/usds/equity_practice/blob/main/further-reading/defining-equity.md)
 
-Part 4: [Situating equity within our current government context](situating_equity.md)
+Part 4: [Situating equity within our current government context](https://github.com/usds/equity_practice/blob/main/further-reading/situating-equity-in-govt-context.md)
 
-Part 5: [Tool: Equity Glossary of Terms](https://github.com/usds/equity_practice/blob/main/Ref_Equity%20Glossary%20of%20Terms.md)
+Part 5: [Tool: Equity Glossary of Terms](https://github.com/usds/equity_practice/blob/main/further-reading/glossary-of-equity-terms.md)
 
-Part 6: [Additional equity resources and tools](https://github.com/usds/equity_practice/blob/main/Ref_Additional%20Equity%20Resources.md)
+Part 6: [Additional equity resources and tools](https://github.com/usds/equity_practice/blob/main/further-reading/additional-equity-resources.md)
 
 *_New as of Dec 2023_
 
