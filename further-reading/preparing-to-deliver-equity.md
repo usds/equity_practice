@@ -5,6 +5,8 @@ tools for defining what the delivery of equity could look like for your
 project. While not meant to be prescriptive, this provides a modifiable
 approach to equity deliverables throughout the scope of engagement.
 
+Note: this page, although it contains a lot of useful content, is a touch less polished than our V1 [flagship tools](https://github.com/usds/equity_practice/blob/main/tools.md).
+
 ## Objectives
 
 Provide core steps for teams to take in scoping and delivering on agency
