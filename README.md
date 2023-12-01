@@ -31,7 +31,7 @@ This V1 toolkit serves as a starting point within a broader effort led by the US
 ## What is included in this toolkit? 
 Part 1: [Preparing your team to deliver equity](prepare_equity_delivery.md)
 
-Part 2: [USDS Equity Delivery tools](https://github.com/usds/equity_practice/blob/main/tools.md)
+Part 2: [USDS Equity Delivery tools](https://github.com/usds/equity_practice/blob/main/tools.md)*
 
 Part 3: [What do we mean by equity?](defining_equity.md)
 
@@ -40,6 +40,8 @@ Part 4: [Situating equity within our current government context](situating_equit
 Part 5: [Tool: Equity Glossary of Terms](https://github.com/usds/equity_practice/blob/main/Ref_Equity%20Glossary%20of%20Terms.md)
 
 Part 6: [Additional equity resources and tools](https://github.com/usds/equity_practice/blob/main/Ref_Additional%20Equity%20Resources.md)
+
+*_New as of Dec 2023_
 
 ## Want Some Help? Reach Out!
 Support is available and new ideas are welcome. You can book time with the USDS Equity Delivery Team for a more private conversation, schedule a consultation with us, or just ask a question using this [Polly](https://web.polly.ai/xakn93). This gets sent as a DM to USDS's Equity Delivery team team but not to our working channel.
