@@ -1,6 +1,6 @@
 # Resources worthy of adaptation for current and future teams
 
-Note: this page, although it contains a lot of useful content, is a touch less polished than our V1 [flagship tools](https://github.com/usds/equity_practice/blob/main/tools.md).
+Note: this page, although it contains a lot of useful content, is a touch less polished than our V1 [flagship tools](https://github.com/usds/equity_practice/blob/main/flagship-tools.md).
 
 ## Resource Identification, Analysis, and Assessment Process 
 
