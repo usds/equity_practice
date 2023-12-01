@@ -4,11 +4,8 @@ Good communication is made possible when we have shared language to use.
 
 Use this glossary to help define and acknowledge language related to equity. This starter list of terms were identified by the inaugural USDS DEIA Council. This list will grow over time (and you are encouraged to add to it!). 
 
-[More terms can be found at
-https://www.feminuity.org.](https://teams.omb.gov/team/USDS/Shared%20Documents/DEIA%20equity%20toolkit/Toolkit%20Drafts/More%20terms%20can%20be%20found%20at%20https:/www.feminuity.org.)
-
-Remember! Language is critically important, highly imperfect, and
-ever-evolving. 
+(*Remember! Language is critically important, highly imperfect, and
+ever-evolving*). 
 
 ## Your (Growing) List of Terms
 
@@ -83,6 +80,9 @@ minorities; lesbian, gay, bisexual, transgender, and queer (LGBTQ+)
 persons; persons with disabilities; persons who live in rural areas; and
 persons otherwise adversely affected by persistent poverty or
 inequality. ”
+
+[More terms can be found at
+https://www.feminuity.org.](https://teams.omb.gov/team/USDS/Shared%20Documents/DEIA%20equity%20toolkit/Toolkit%20Drafts/More%20terms%20can%20be%20found%20at%20https:/www.feminuity.org.)
 
 ## Want to share feedback? Have a term to submit? Reach out!
 Your input is not only welcome, it's needed. You can book time for a more private conversation, schedule a consultation with us, submit a new idea or just ask a question using this Polly. This gets sent as a DM to USDS's Equity Delivery team team but not to our working channel.
