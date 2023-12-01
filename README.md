@@ -16,7 +16,7 @@ Our Dec 4 soft launch comprises 3 elements:
 
 The U.S. Digital Service (USDS) recognizes the critical importance for the civic technology workforce to deliver on equity in its work to transform the way government serves the American public. 
 
-Did you know? The USDS was mentioned in [Section 7 of Executive Order 13985: Advancing Racial Equity and Support for Underserved Communities](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/), as one critical group playing a role to promote equitable delivery of government benefits and equitable opportunities.  
+Did you know? USDS was mentioned in [Section 7 of Executive Order 13985: Advancing Racial Equity and Support for Underserved Communities](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/), as one critical group playing a role to promote equitable delivery of government benefits and equitable opportunities.  
 
 You can strengthen how we pursue equity our work and there are many ways to get started. To help you and USDS teams with equitable delivery, the USDS Diversity, Equity, Inclusion, and Accessibility Council (DEIA-C) developed a very initial version (v0) of an Equity Toolkit. The toolkit looks to equip USDS project leads, teams, and agency partners with a starter set of tools to develop products and services that deliver incrementally on equity. USDS Equity Delivery believes that no matter your role, equity is a part of the job and encourages ongoing efforts to improve upon centering equity in our work. 
 
