@@ -34,6 +34,15 @@ stakeholders, especially individuals and communities who are
 traditionally underserved and marginalized, trust to represent the
 public we serve.
 
+**Equity**: According to Executive Order (EO) 14091: Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Govt (Signed 02/16/2023):
+
+Equity is the consistent and systematic treatment of all individuals in a fair, just, and impartial manner, including individuals who belong to communities that often have been denied such treatment, such as Black, Latino, Indigenous and Native American, Asian American, Native Hawaiian, and Pacific Islander persons and other persons of color; members of religious minorities; women and girls; LGBTQI+ persons; persons with disabilities; persons who live in rural areas; persons who live in United States Territories; persons otherwise adversely affected by persistent poverty or inequality; and individuals who belong to multiple such communities.
+
+What is USDS's measurable, working equity definition?
+While the definition above is helpful as a starting point, synthesizing commonly used definitions of equity from the World Health Organization and the field of health equity gives us a measurable definition of equity that may be helpful for USDS's purposes:
+
+Equity is the absence of unfair and avoidable differences in lived outcomes (and their determinants)
+
 **Lived Experience:** Personal knowledge about the world gained through
 direct, first-hand involvement in everyday events rather than through
 representations constructed by other people.
