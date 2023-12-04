@@ -61,7 +61,7 @@ You can use this tool to:
 [Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699304349451/54[…]6fef29a54c8965cb98defdae74d67?sender=u251162188f56721a08512222) (in Mural)
 
 
-# Wanna contribute to this evolving work? 
+# Want to contribute to this evolving work? 
 We need your helping hands! Drop us (Celeste Espinoza, Jeremy Zitomer, Alex Bornkessel, Natasha Jamal) a DM and we’ll connect you.
 
 **Environmental scan of tools and resources**
