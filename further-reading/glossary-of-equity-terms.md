@@ -1,6 +1,6 @@
 # Glossary of Equity Terms
 
-Good communication is made possible when we have shared language to use. 
+Good communication is made easier when we have shared language to use. 
 
 Use this glossary to help define and acknowledge language related to equity. This starter list of terms were identified by the inaugural USDS DEIA Council. This list will grow over time (and you are encouraged to add to it!). 
 
