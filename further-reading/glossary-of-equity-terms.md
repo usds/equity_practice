@@ -67,13 +67,19 @@ to create change or those who are most likely to experience various
 forms of exclusion. Occurs when someone’s identity is undervalued or
 discriminated against. Does not necessarily mean underrepresentation.
 
+**Oppression:** Systemic, pervasive inequality throughout society. It benefits people with more privileges and harms those with fewer privileges.
+
+**Privilege:**  A collection of unearned cultural, legal, social, and institutional rights and advantages extended to certain social groups. Privilege is about acknowledging the advantages that you have and others do not. Every person possesses some form of privilege.
+
 **Psychological Safety:** The individual, team, or organizational belief
 that an environment allows for risk taking, vulnerability, and failure.
 One of the ways that we measure inclusion.
 
-**Safe Spaces:** a supportive, non-threatening environment that enables
+**Safe Spaces:** A supportive, non-threatening environment that enables
 a participant to feel there is no risk to expressing themselves and
 sharing their thoughts/experiences
+
+**Tokenism:** Seeking representation of non-dominant groups without a genuine desire for their participation, input, and individual lived experiences. People who are being tokenized are often recruited to serve an optics-based agenda to deflect criticism rather than engage in meaningful organizational change. Tokenization often results in communities being perceived as a monolith and marginalized people being asked to represent their entire community.
 
 **Underrepresented:** More commonly used to speak about a low number of
 a specific identity relative to general population.
