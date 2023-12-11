@@ -96,7 +96,7 @@ persons; persons with disabilities; persons who live in rural areas; and
 persons otherwise adversely affected by persistent poverty or
 inequality. ”
 
-More terms can be found at (https://www.feminuity.org/resources/40-dimensions-diversity-intersections-intersectionality-identity)
+More terms can be found at https://www.feminuity.org/resources/40-dimensions-diversity-intersections-intersectionality-identity
 
 
 ## Want to share feedback? Have a term to submit? Reach out!
