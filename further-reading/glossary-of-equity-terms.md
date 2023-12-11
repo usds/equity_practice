@@ -96,8 +96,8 @@ persons; persons with disabilities; persons who live in rural areas; and
 persons otherwise adversely affected by persistent poverty or
 inequality. ”
 
-[More terms can be found at
-https://www.feminuity.org.](https://teams.omb.gov/team/USDS/Shared%20Documents/DEIA%20equity%20toolkit/Toolkit%20Drafts/More%20terms%20can%20be%20found%20at%20https:/www.feminuity.org.)
+[More terms can be found at https://www.feminuity.org/resources/40-dimensions-diversity-intersections-intersectionality-identity]
+
 
 ## Want to share feedback? Have a term to submit? Reach out!
 Your input is not only welcome, it's needed. You can book time for a more private conversation, schedule a consultation with us, submit a new idea or just ask a question using this [Polly](https://web.polly.ai/xakn93). This gets sent as a DM to USDS's Equity Delivery team team but not to our working channel.
