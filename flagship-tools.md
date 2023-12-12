@@ -40,7 +40,6 @@ You can use this tool to:
 
 [End-to-End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F061PMRTG59) (in Slack Canvas)     
 [Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699306039829/35[…]0d3cc2246ddee79f4246bb59cae3a?sender=u251162188f56721a08512222) (in Mural)    
-[a11y Excel version](https://github.com/usds/equity_practice/files/13550341/Reach-Burden.Spectrum.-.A11Y.Edit.xlsx)
 
 
 ## Participation Spectrum
@@ -60,7 +59,6 @@ You can use this tool to:
 
 [End-to- End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F061PMZCMMY) (in Slack Canvas)     
 [Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699304349451/54[…]6fef29a54c8965cb98defdae74d67?sender=u251162188f56721a08512222) (in Mural)    
-[a11y Excel version](https://github.com/usds/equity_practice/files/13550346/Participation.Spectrum.Worksheet_a11y_template.xlsx)
 
 
 # Want to contribute to this evolving work? 
