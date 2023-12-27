@@ -62,7 +62,7 @@ You can use this tool to:
 [End-to- End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F061PMZCMMY) (in Slack Canvas)     
 [Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699304349451/54[…]6fef29a54c8965cb98defdae74d67?sender=u251162188f56721a08512222) (in Mural)    
 
-_Based on International Association for Public Participation's [Spectrum of Public Participation](https://www.iap2.org/page/pillars#:~:text=IAP2%20Spectrum%20of%20Public%20Participation) and Donald Moynihan, Pamela Herd, and Hope Harvey's [seminal research on administrative burden](https://doi.org/10.1093/jopart/muu009)._
+_Based on the International Association for Public Participation's [Spectrum of Public Participation](https://www.iap2.org/page/pillars#:~:text=IAP2%20Spectrum%20of%20Public%20Participation) and Donald Moynihan, Pamela Herd, and Hope Harvey's [seminal research on administrative burden](https://doi.org/10.1093/jopart/muu009)._
 
 # Want to contribute to this evolving work? 
 We need your helping hands! Drop us (Celeste Espinoza, Jeremy Zitomer, Alex Bornkessel, Natasha Jamal) a DM and we’ll connect you.
