@@ -8,6 +8,9 @@ Our Dec 4 soft launch comprises 3 elements:
 - This Github Repo, which provides project teams with a broader grounding on equity in the context of our work--including [key definitions](https://github.com/usds/equity_practice/blob/main/further-reading/glossary-of-equity-terms.md), the [historical context](https://github.com/usds/equity_practice/blob/main/further-reading/situating-equity-in-govt-context.md) of equity work within the federal government, and [extra resources](https://github.com/usds/equity_practice/blob/main/further-reading/additional-equity-resources.md).
 - The USDS Equity team is now making itself available for 30-min consultations. Schedule one [here](https://web.polly.ai/xakn93).
 
+## Looking for Indigenous Sovereignty + Indigenous Governance Readings?
+You can find them organized by their original NNI modules in the [Native Nations folder](https://github.com/usds/equity_practice/tree/main/Native%20Nations)
+
 ## Overview
 
 > "Advancing equity is not a one-year project – it is a generational commitment that will require sustained leadership and partnership with all communities."
