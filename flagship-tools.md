@@ -12,7 +12,7 @@ In asking questions like these, we develop a deep respect for the people in comm
 
 ## Positionality
 <p align="center">
-  <img width="582" alt="Screen Shot 2023-12-01 at 5 42 24 PM" src="https://github.com/usds/equity_practice/assets/76444566/86c466e3-5736-4b09-9429-dea9f1f16ddf">
+  <img width="582" alt="Positionality Radar Empty Worksheet" src="https://github.com/usds/equity_practice/blob/main/Screenshot%202024-03-19%20141209.png">
 </p>
 
 This 60-minute team exercise helps you and your team achieve a richer sense of self, of team, and of the people involved in your project. It prompts teams to reflect on their lived experiences and highlights gaps and opportunities between the team’s experience and the communities being served.
@@ -28,7 +28,7 @@ You can use this tool to:
 
 ## Five Problem Frames
 <p align="center">
-<img width="409" alt="Screen Shot 2023-12-01 at 5 43 36 PM" src="https://github.com/usds/equity_practice/assets/76444566/a96959b0-16bf-4dd7-b795-483d3a606346">
+<img width="409" alt="Five Problem Frames Worksheet" src="https://github.com/usds/equity_practice/blob/main/Reach%20Burden%20Spectrum_v1%20-%20Demo_2024-03-19_18-03-09.png">
 </p>
 
 Use this tool to ensure the problem your team is solving is as high-impact as possible within the constraints that this problem space poses for your team. This tool challenges teams to consider different levers of change and do a risk-benefit analysis among them, focusing on the reach and burden they tend to carry for the American public.
@@ -44,9 +44,9 @@ af02c9b8181f431267a075a6700da6ce4b916ae7?wid=50-1710126012797) (in Mural)
 _Based on ["A Framework for Public Health Action: The Health Impact Pyramid", by Thomas R. Frieden](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836340/)._
 
 
-## Participation Spectrum
+## Participation Spectrum (In Active Pilot Development)
 <p align="center">
-  <img width="459" alt="Screen Shot 2023-12-01 at 5 42 57 PM" src="https://github.com/usds/equity_practice/assets/76444566/f8fbc694-5a0a-4ff3-acdc-89807bfea0c2">
+  <img width="459" alt="Participation Spectrum Worksheet" src="https://github.com/usds/equity_practice/blob/main/Screen%20Shot%202024-03-19%20at%201.50.22%20PM%20(1).png">
 </p>
 
 Participation Spectrum is a planning and evaluative tool to help you and your team assess how stakeholders participated and the integrity of that participation. This tools is adapted from the IAP2 Spectrum of Public Participation, an internationally recognized framework government entities use to structure public participation engagements--and from Pamela Herd and Donald Moynihan's seminal research on administrative burden. When used with agency teams, this tool introduces foundational elements of equitable CX measurement and design so those teams can build a system for meaningful, continuous feedback and partnership with all individuals they serve.
