@@ -12,7 +12,7 @@ In asking questions like these, we develop a deep respect for the people in comm
 
 ## Positionality
 <p align="center">
-  <img width="582" alt="Positionality Radar Empty Worksheet" src="https://github.com/usds/equity_practice/blob/main/Screenshot%202024-03-19%20141209.png">
+  <img width="582" alt="Positionality Radar Empty Worksheet" src="https://github.com/usds/equity_practice/blob/main/POSITIONALITY%20NEW.png">
 </p>
 
 This 60-minute team exercise helps you and your team achieve a richer sense of self, of team, and of the people involved in your project. It prompts teams to reflect on their lived experiences and highlights gaps and opportunities between the team’s experience and the communities being served.
