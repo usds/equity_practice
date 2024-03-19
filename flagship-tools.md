@@ -26,7 +26,7 @@ You can use this tool to:
 [Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1688682093846/26[…]6b12d80b730dabebe85a33b202fe1?sender=u251162188f56721a08512222) (in Mural)
 
 
-## Reach/Burden Spectrum
+## Five Problem Frames
 <p align="center">
 <img width="409" alt="Screen Shot 2023-12-01 at 5 43 36 PM" src="https://github.com/usds/equity_practice/assets/76444566/a96959b0-16bf-4dd7-b795-483d3a606346">
 </p>
@@ -37,9 +37,9 @@ You can use this tool to:
 - Assess the expected reach and public burden that solutions to your team’s problem statement might carry relative to alternative framings of that problem
 - Think through your constraints to understand which problem spaces are most feasible for your team to address
 - Determine a North Star to ground future project delivery
-
-[End-to-End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F061PMRTG59) (in Slack Canvas)     
-[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699306039829/35[…]0d3cc2246ddee79f4246bb59cae3a?sender=u251162188f56721a08512222) (in Mural)    
+    
+[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1706812531470/
+af02c9b8181f431267a075a6700da6ce4b916ae7?wid=50-1710126012797) (in Mural)    
 
 _Based on ["A Framework for Public Health Action: The Health Impact Pyramid", by Thomas R. Frieden](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836340/)._
 
