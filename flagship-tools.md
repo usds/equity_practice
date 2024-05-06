@@ -28,7 +28,7 @@ You can use this tool to:
 
 ## Five Problem Frames
 <p align="center">
-<img width="409" alt="Five Problem Frames Worksheet" src="https://github.com/usds/equity_practice/blob/main/further-reading/5%20Problem%20Frames.png">
+  <img width="409" alt="Five Problem Frames Worksheet" src="https://github.com/usds/equity_practice/blob/main/5%20Problem%20Frames.png">
 </p>
 
 Use this tool to ensure the problem your team is solving is as high-impact as possible within the constraints that this problem space poses for your team. This tool challenges teams to consider different levers of change and do a risk-benefit analysis among them, focusing on the reach and burden they tend to carry for the American public.
@@ -38,8 +38,7 @@ You can use this tool to:
 - Think through your constraints to understand which problem spaces are most feasible for your team to address
 - Determine a North Star to ground future project delivery
     
-[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1706812531470/
-af02c9b8181f431267a075a6700da6ce4b916ae7?wid=50-1710126012797) (in Mural)    
+[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1706812531470/af02c9b8181f431267a075a6700da6ce4b916ae7?wid=50-1710126012797) (in Mural)    
 
 _Based on ["A Framework for Public Health Action: The Health Impact Pyramid", by Thomas R. Frieden](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836340/)._
 
