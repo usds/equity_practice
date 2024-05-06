@@ -28,7 +28,7 @@ You can use this tool to:
 
 ## Five Problem Frames
 <p align="center">
-<img width="409" alt="Five Problem Frames Worksheet" src="https://github.com/usds/equity_practice/blob/main/Reach%20Burden%20Spectrum_v1%20-%20Demo_2024-03-19_18-03-09.png">
+<img width="409" alt="Five Problem Frames Worksheet" src="[https://github.com/usds/equity_practice/blob/main/Reach%20Burden%20Spectrum_v1%20-%20Demo_2024-03-19_18-03-09.png](https://github.com/usds/equity_practice/blob/main/further-reading/5%20Problem%20Frames.png)">
 </p>
 
 Use this tool to ensure the problem your team is solving is as high-impact as possible within the constraints that this problem space poses for your team. This tool challenges teams to consider different levers of change and do a risk-benefit analysis among them, focusing on the reach and burden they tend to carry for the American public.
