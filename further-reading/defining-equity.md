@@ -67,7 +67,7 @@ Some ways you can focus on equity include addressing common inequities that unde
     
 10.	**Note opportunities for equitable reallocation of resources.** Work to reduce constituent burden, and increase direct participation in the design of systems with those impacted with your Stakeholders and Leadership.
 
-11.	**Default to transparency open meetings, open source, open minutes, open communications, etc. Set a norm of justifying when processes should not be transparent instead of justifying when they should be.**
+11.	**Default to transparency: open meetings, open source, open minutes, open communications, etc. Set a norm of justifying when processes should not be transparent instead of justifying when they should be.**
 
 12.	**Above all, lead with courage.** There may be times when you are the first to suggest an idea and/or where you get pushback. This is to be expected! Change is hard, even if it pushes us to be better. _USDS owns part of the responsibility of making things better, and sometimes the better combined with a plan for the best is what's needed to lead the work forward._
 
