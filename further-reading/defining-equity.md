@@ -12,7 +12,7 @@ Good question. According to Executive Order (EO) 14091: Further Advancing Racial
 While the definition above is helpful as a starting point, synthesizing commonly used definitions of equity from the World Health Organization and the field of health equity gives us a measurable definition of equity that may be helpful for USDS's purposes:
 
 > Equity is the **absence of unfair and avoidable differences in lived outcomes (and their determinants, including social determinants)** among population groups defined socially, economically, demographically or geographically.
-> Equity looks like allocating resources according to need. 
+> Equity looks like allocating resources according to need
 
 ## What are some strategies for achieving more equitable outcomes?
 To eliminate disparities in lived outcomes across population groups, we must understand that everyone is not starting at the same place, nor shares the exact same goals. This means there will never be a one-size fits all solution. 
