@@ -25,6 +25,18 @@ You can use this tool to:
 [End-to-End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F062CQMCH88) (in Slack Canvas)     
 [Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1688682093846/26[…]6b12d80b730dabebe85a33b202fe1?sender=u251162188f56721a08512222) (in Mural)
 
+## To Be Fair: Defining Fairness in Your Project Context
+
+Use this 60-minute team exercise to help you and your team articulate what fairness looks like in the outcomes your program or service creates for the public. _To Be Fair_ helps you assess to what extent the impact of your project is distributed equitably, and chart out a plan for equitable impact that can be measured.
+
+The objectives for this exercise are to:  
+•	Define what a fair distribution of outputs and outcomes looks like for the people impacted by your program or service
+•	Make team commitments that will help ensure the impact you create is equitable
+•	Provide a basis for concrete success metrics that assess the extent to which your project's impact on the public is equitable
+
+[End-to-End Guide](url here)   
+[Template](url here) (in Mural)
+[Approaches to Assessing Equity in Equity in Outcomes](url here) (PowerPoint Presentation)
 
 ## Five Problem Frames
 <p align="center">
@@ -43,7 +55,7 @@ You can use this tool to:
 _Based on ["A Framework for Public Health Action: The Health Impact Pyramid", by Thomas R. Frieden](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836340/)._
 
 
-## Participation Spectrum (In Active Pilot Development)
+## Participation Spectrum 
 <p align="center">
   <img width="459" alt="Participation Spectrum Worksheet" src="https://github.com/usds/equity_practice/blob/main/Screen%20Shot%202024-03-19%20at%201.50.22%20PM%20(1).png">
 </p>
