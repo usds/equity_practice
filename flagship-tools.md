@@ -34,9 +34,10 @@ The objectives for this exercise are to:
 •	Make team commitments that will help ensure the impact you create is equitable
 •	Provide a basis for concrete success metrics that assess the extent to which your project's impact on the public is equitable
 
-[End-to-End Guide](url here)   
+[Approaches to Assessing Equity in Outcomes.pptx](https://github.com/usds/equity_practice/blob/main/Approaches%20to%20Assessing%20Equity%20in%20Outcomes.pptx) (PowerPoint Presentation)
+
+[End-to-End Guide](https://github.com/usds/equity_practice/blob/main/Defining%20Fairness%20in%20Your%20Project%20Context-%20Worksheet%20and%20Guide.docx)   
 [Template](url here) (in Mural)
-[Approaches to Assessing Equity in Equity in Outcomes](url here) (PowerPoint Presentation)
 
 ## Five Problem Frames
 <p align="center">
