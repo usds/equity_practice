@@ -76,6 +76,21 @@ You can use this tool to:
 
 _Based on the International Association for Public Participation's [Spectrum of Public Participation](https://www.iap2.org/page/pillars#:~:text=IAP2%20Spectrum%20of%20Public%20Participation) and Donald Moynihan, Pamela Herd, and Hope Harvey's [seminal research on administrative burden](https://doi.org/10.1093/jopart/muu009)._
 
+# Large Formats for Workshops
+Adobe Illustrator Files 36 x 24
+- [Positionality](https://github.com/usds/equity_practice/blob/main/positionality%20large%20format.ai)
+- [Five Problem Frames](https://github.com/usds/equity_practice/blob/main/CFA-FPF%20Canvas.ai)
+- [Participation Spectrum](https://github.com/usds/equity_practice/blob/main/Participation%20Spectrum%20-%20Large.ai)
+- [Fairness Canvas](https://github.com/usds/equity_practice/blob/main/Fairness%20Canvas.ai)
+- [Fairness Graph](https://github.com/usds/equity_practice/blob/main/Fairness%20Canvas%20-%20Graph.ai)
+
+PDF 36 x 24
+- [Positionality]([url](https://github.com/usds/equity_practice/blob/main/positionality%20large%20format.pdf))
+- [Five Problem Frames](https://github.com/usds/equity_practice/blob/main/CFA-FPF%20Canvas.pdf)
+- [Participation Spectrum](https://github.com/usds/equity_practice/blob/main/Participation%20Spectrum%20-%20Large.pdf)
+- [Fairness Canvas](https://github.com/usds/equity_practice/blob/main/Fairness%20Canvas.pdf)
+- [Fairness Graph](https://github.com/usds/equity_practice/blob/main/Fairness%20Canvas%20-%20Graph.pdf)
+
 # Want to contribute to this evolving work? 
 We need your helping hands! Drop us (Celeste Espinoza, Jeremy Zitomer, Alex Bornkessel, Natasha Jamal) a DM and we’ll connect you.
 
