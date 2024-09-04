@@ -52,7 +52,7 @@ You can use this tool to:
 - Think through your constraints to understand which problem spaces are most feasible for your team to address
 - Determine a North Star to ground future project delivery
     
-[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1706812531470/af02c9b8181f431267a075a6700da6ce4b916ae7?wid=50-1710126012797) (in Mural)    
+[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1725463972721/7dc7cf1a10b71107cc79455d79b868e27f25a837?sender=u13c8485b33f98e7ba1c50392) (in Mural)    
 
 _Based on ["A Framework for Public Health Action: The Health Impact Pyramid", by Thomas R. Frieden](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836340/)._
 
