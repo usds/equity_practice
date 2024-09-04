@@ -28,7 +28,7 @@ You can use this tool to:
 ## To Be Fair: Defining Fairness in Your Project Context
 
 <p align="center">
-  <img width="582" alt="To Be Fair Worksheet" src="[https://github.com/usds/equity_practice/blob/main/FairnessIMG.png]">
+  <img width="582" alt="To Be Fair Worksheet" src="https://github.com/usds/equity_practice/blob/main/FairnessIMG.png">
 </p>
 
 Use this 60-minute team exercise to help you and your team articulate what fairness looks like in the outcomes your program or service creates for the public. _To Be Fair_ helps you assess to what extent the impact of your project is distributed equitably, and chart out a plan for equitable impact that can be measured.
