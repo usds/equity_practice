@@ -39,6 +39,7 @@ The objectives for this exercise are to:
 •	Provide a basis for concrete success metrics that assess the extent to which your project's impact on the public is equitable
 
 The powerpoint below is a valuable pre-read before conducting the Fairness exercise. [Here](https://teams.omb.gov/team/USDS/_layouts/15/guestaccess.aspx?guestaccesstoken=Ycnl9%2F4FNWNCi%2BbxxBv50CdEWMt1vwWOooQ%2FcfrLb8s%3D&docid=2_04275afb6278c45e9a4c725cdd1224f09&rev=1) is a recording of that presentation.
+
 [Approaches to Assessing Equity in Outcomes.pptx](https://github.com/usds/equity_practice/blob/main/Approaches%20to%20Assessing%20Equity%20in%20Outcomes.pptx) (PowerPoint Presentation)
 
 [End-to-End Guide](https://github.com/usds/equity_practice/blob/main/Defining%20Fairness%20in%20Your%20Project%20Context-%20Worksheet%20and%20Guide.docx) 
