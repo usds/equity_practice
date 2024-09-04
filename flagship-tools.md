@@ -23,7 +23,7 @@ You can use this tool to:
 - Learn more about our team members as people (to enable further support and collaboration)
 
 [End-to-End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F062CQMCH88) (in Slack Canvas)     
-[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1688682093846/26[…]6b12d80b730dabebe85a33b202fe1?sender=u251162188f56721a08512222) (in Mural)
+[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1725464195677/15a6b2a25f60f4be73338dd27b3aa5ecd7708f61?sender=u251162188f56721a08512222) (in Mural)
 
 ## To Be Fair: Defining Fairness in Your Project Context
 
