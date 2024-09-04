@@ -27,6 +27,10 @@ You can use this tool to:
 
 ## To Be Fair: Defining Fairness in Your Project Context
 
+<p align="center">
+  <img width="582" alt="To Be Fair Worksheet" src="[https://github.com/usds/equity_practice/blob/main/FairnessIMG.png]">
+</p>
+
 Use this 60-minute team exercise to help you and your team articulate what fairness looks like in the outcomes your program or service creates for the public. _To Be Fair_ helps you assess to what extent the impact of your project is distributed equitably, and chart out a plan for equitable impact that can be measured.
 
 The objectives for this exercise are to:  
@@ -37,8 +41,10 @@ The objectives for this exercise are to:
 The powerpoint below is a valuable pre-read before conducting the Fairness exercise. [Here](https://teams.omb.gov/team/USDS/_layouts/15/guestaccess.aspx?guestaccesstoken=Ycnl9%2F4FNWNCi%2BbxxBv50CdEWMt1vwWOooQ%2FcfrLb8s%3D&docid=2_04275afb6278c45e9a4c725cdd1224f09&rev=1) is a recording of that presentation.
 [Approaches to Assessing Equity in Outcomes.pptx](https://github.com/usds/equity_practice/blob/main/Approaches%20to%20Assessing%20Equity%20in%20Outcomes.pptx) (PowerPoint Presentation)
 
-[End-to-End Guide](https://github.com/usds/equity_practice/blob/main/Defining%20Fairness%20in%20Your%20Project%20Context-%20Worksheet%20and%20Guide.docx)   
+[End-to-End Guide](https://github.com/usds/equity_practice/blob/main/Defining%20Fairness%20in%20Your%20Project%20Context-%20Worksheet%20and%20Guide.docx) 
+
 [Template - Canvas](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1725386674424/336eab033513ea31f29755a303d44017bf4418cb?sender=u13c8485b33f98e7ba1c50392e) (in Mural)
+
 [Template - Graph](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1725385466654/808ac4c90a9b05997b5129a2591a0ce89642804b?sender=u13c8485b33f98e7ba1c50392) (in Mural)
 
 ## Five Problem Frames
