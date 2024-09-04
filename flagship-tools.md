@@ -38,7 +38,8 @@ The powerpoint below is a valuable pre-read before conducting the Fairness exerc
 [Approaches to Assessing Equity in Outcomes.pptx](https://github.com/usds/equity_practice/blob/main/Approaches%20to%20Assessing%20Equity%20in%20Outcomes.pptx) (PowerPoint Presentation)
 
 [End-to-End Guide](https://github.com/usds/equity_practice/blob/main/Defining%20Fairness%20in%20Your%20Project%20Context-%20Worksheet%20and%20Guide.docx)   
-[Template](url here) (in Mural)
+[Template - Canvas](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1725386674424/336eab033513ea31f29755a303d44017bf4418cb?sender=u13c8485b33f98e7ba1c50392e) (in Mural)
+[Template - Graph](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1725385466654/808ac4c90a9b05997b5129a2591a0ce89642804b?sender=u13c8485b33f98e7ba1c50392) (in Mural)
 
 ## Five Problem Frames
 <p align="center">
