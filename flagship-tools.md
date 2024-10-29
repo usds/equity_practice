@@ -83,6 +83,8 @@ You can use this tool to:
 [End-to- End Guide](https://usds.enterprise.slack.com/docs/TD42BGDLM/F061PMZCMMY) (in Slack Canvas)     
 [Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1725464006169/03e16426fa71b358efa7790f03b692cf5cff34bf?sender=u13c8485b33f98e7ba1c50392) (in Mural)    
 
+[Discussion Guide - Word](https://github.com/usds/equity_practice/blob/main/Participation%20Spectrum.docx)      
+
 _Based on the International Association for Public Participation's [Spectrum of Public Participation](https://www.iap2.org/page/pillars#:~:text=IAP2%20Spectrum%20of%20Public%20Participation) and Donald Moynihan, Pamela Herd, and Hope Harvey's [seminal research on administrative burden](https://doi.org/10.1093/jopart/muu009)._
 
 # Large Formats for Workshops
