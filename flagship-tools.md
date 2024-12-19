@@ -9,6 +9,14 @@ In asking questions like these, we develop a deep respect for the people in comm
 **This content will be updated as tools are added.*
 
 
+## What's the Problem? -- A Precursor to Equity Exercises
+<p align="center">
+  <img width="378" alt="Screenshot 2024-12-19 at 1 42 28 PM" src="https://github.com/user-attachments/assets/305b37f0-0b4e-420a-985b-1e48531b8ff7" />
+</p>
+
+This 30-minute team exercise helps you prepare to conduct other equity/impact exercises in this toolkit, by helping you refine your **guiding problem statement**. The tool enourages you to adjust your problem statement so that it focuses on the impact on members of the public, and removes assumptions about the solution or unconfirmed assumptions about what people on the ground feel, think, want, or find most important or problematic.
+
+[Template](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1699368894718/bbc65cd728fd623df2352bec55175b40dcffd59a) (in Mural)
 
 ## Positionality
 <p align="center">
