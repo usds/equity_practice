@@ -1,7 +1,7 @@
 # Your Impact Toolkit for Project Delivery
 Are you interested in advancing your team's impact-centered practices? This guided set of tools was created to support you and your team in the adoption of practices that improve delivery with our agency partners.
 
-## Flagship Tools
+## Flagship Tools to Increase Impact 
 
 - [Four flagship tools](https://github.com/usds/equity_practice/blob/main/flagship-tools.md) 
 
